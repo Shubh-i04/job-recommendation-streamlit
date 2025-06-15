@@ -1,3 +1,7 @@
 streamlit
 PyMuPDF
 scikit-learn
+matplotlib
+fpdf
+openai
+python-dotenv
